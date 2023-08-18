@@ -1,6 +1,6 @@
 ![logo](https://github.com/Lalu19/Lalu19/blob/main/MyGittBanner.png)
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/lalu19/" rel="nofollow"> Lalu Prasad</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/laluprasad99/" rel="nofollow"> Lalu Prasad</a></h1>
 <h3 align="center">A passionate .NET Full Stack Developer from India</h3>
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=40c211&font=Fira+Code&duration=4000&pause=0&center=true&vCenter=true&width=435&lines=.NET+Full+Stack+Developer;Front-End+Developer;Back-End+Developer" alt="Typing SVG" /></a>
